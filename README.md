@@ -104,27 +104,16 @@ Based on the analysis, several strategy recommendations can be derived:
 ## Output Visualizations
 
 
-(<img width="419" height="470" alt="image" src="https://github.com/user-attachments/assets/48c6ca47-0add-4b0b-a2d6-f0ec71ab1373" />)
+<img width="419" height="470" alt="image" src="https://github.com/user-attachments/assets/48c6ca47-0add-4b0b-a2d6-f0ec71ab1373" />
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/7f14a267-3827-48f5-8199-e00849b5bda1" />
+<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/5b595660-112b-419a-b63d-2150f25d141d" />
+<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/0a96cf4a-8b85-4d45-9e38-95872d5b1e34" />
+<img width="721" height="561" alt="image" src="https://github.com/user-attachments/assets/d40bac3d-bb0f-482e-ba3f-1a44bc8c2437" />
+<img width="598" height="455" alt="image" src="https://github.com/user-attachments/assets/2fbad79b-4dcc-4242-99c8-bccd539e5dcf" />
+<img width="515" height="435" alt="image" src="https://github.com/user-attachments/assets/7e92eb1a-3884-47d9-88d5-f83ba26fe2bd" />
+<img width="608" height="435" alt="image" src="https://github.com/user-attachments/assets/70d46689-239b-4d18-9376-d66bed05db1c" />
+<img width="579" height="456" alt="image" src="https://github.com/user-attachments/assets/4c67f91c-b794-4df2-8e47-365437de19bb" />
 
----
-
-### Trade Size vs Profit
-
-![Trade Size vs Profit](images/trade_size_vs_profit.png)
-
----
-
-### Sentiment vs Profit
-
-![Sentiment vs Profit](images/sentiment_vs_profit.png)
-
----
-
-### Feature Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
----
 
 ## Running the Project
 
